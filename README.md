@@ -1,7 +1,7 @@
 vane
 ====
 
-vane is an open source multivariate crypto library written in c supporting
+vane is an open source cryptographic library written in C supporting multivariate signature and encryption schemes and stream ciphers 
 
 UOV, SQUARE, rainbow (cyclic, LRS), QUAD (cyclic, LRS), simple matrix scheme / ABC, QUARTZ, 3IC-p, pFLASH, TTS
 
